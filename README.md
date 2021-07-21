@@ -1,7 +1,7 @@
 
 # Drowsiness-detection
 
-Driver drowsiness detection is a car safety technology which helps prevent accidents caused by the driver getting drowsy. 
+Drowsiness detection is a car safety technology which helps prevent accidents caused by the driver getting drowsy. 
 
 ## Tutorial
 [Triệu Phong Blog - Facial Landmark - xây dựng hệ thống cảnh báo ngủ gật](#)
