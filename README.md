@@ -4,7 +4,7 @@
 Drowsiness detection is a car safety technology which helps prevent accidents caused by the driver getting drowsy. 
 
 ## Tutorial
-[Triệu Phong Blog - Facial Landmark - xây dựng hệ thống cảnh báo ngủ gật](#)
+[Triệu Phong Blog - Facial Landmark - xây dựng hệ thống cảnh báo ngủ gật](https://www.nguyentrieuphong.com/2021/07/drowsiness-detection-opencv.html)
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Drowsiness-detection.
